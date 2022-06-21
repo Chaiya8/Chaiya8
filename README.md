@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaiya8
-- 👀 I’m interested in the software engineering field and character designing.
-- 🌱 I’m currently learning Computer Science and Pure maths as core subject at Alevels
+- 👀 I’m interested in the software engineering field and character design.
+- 🌱 I’m currently learning how to program in python and C.
 - 📫 How to reach me --> Email:chaiyamanuel@gmail.com
 
 <!---
