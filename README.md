@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaiya8
 - 👀 I’m interested in the software engineering field and character design.
-- 🌱 I’m currently learning how to program in python and C.
+- 🌱 I’m currently learning how to program in javascript and python
 - 📫 How to reach me --> Email:chaiyamanuel@gmail.com
 
 <!---
